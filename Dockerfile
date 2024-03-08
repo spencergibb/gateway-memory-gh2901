@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:17
 MAINTAINER jingfeng.xjf <jingfeng.xjf@alibaba-inc.com>
 
 RUN mkdir -p /home/admin && mkdir -p home/admin/bin

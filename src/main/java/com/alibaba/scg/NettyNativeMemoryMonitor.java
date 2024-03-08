@@ -6,7 +6,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
-import javax.annotation.PostConstruct;
+import jakarta.annotation.PostConstruct;
 
 import io.netty.util.internal.PlatformDependent;
 import org.slf4j.Logger;

@@ -6,3 +6,6 @@ server:
 spring:
   codec:
     max-in-memory-size: 100MB
+logging:
+  level:
+    io.netty: DEBUG
